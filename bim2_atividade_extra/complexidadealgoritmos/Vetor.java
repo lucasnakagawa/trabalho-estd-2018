@@ -4,7 +4,7 @@ public class Vetor {
 		
 	public double[] obterMaiorMenorValor(double[] array) {
 		if (array.length == 0) {
-			System.out.println("O vetor está vazia...");
+			System.out.println("O vetor está vazio...");
 			return new double[] {0, 0};
 		}
 		
